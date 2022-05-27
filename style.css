@@ -74,16 +74,16 @@
     font-size: 16px;
     line-height: 24px;
     color: #344563;
-    top: 428px;
+    top: 385px;
     left:24px;
 
   }
 
   .Backgroud{
     position: absolute;
-width: 372px;
+width: 392px;
 height: 587.15px;
-left: 5px;
+left: 0px;
 top: 104px;
 background-image: url(image/background_img.png);
 background-repeat: no-repeat;
@@ -105,7 +105,7 @@ background-size: cover; */
   /* Primary/B300 */
   color: #7F8CFF;
   left: 24px;
-  top: 551px;
+  top: 512px;
   }
   .dontwrap {
     white-space: nowrap;
@@ -115,7 +115,7 @@ background-size: cover; */
   height: 20.000062942504883px;
   width: 170.1666717529297px;
   left: 24px;
-  top: 584px;
+  top: 546px;
   border-radius: 0px;
   }
 }
