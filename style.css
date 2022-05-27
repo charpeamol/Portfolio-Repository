@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  @media only screen and (min-width: 375px){
+ 
+  .navImg1{
+     width: 16px;
+     border: 2px solid #6070FF;
+     height: 0px;
+     position: absolute;
+     top: 63px;
+     left:323px;
+     right: 36px;
+  }
+  .navImg2{
+    width: 16px;
+    border: 2px solid #6070FF;
+    height: 0px;
+    position: absolute;
+    top: 68px;
+    left:323px;
+    right: 36px;
+ }
+ .navImg3{
+    width: 16px;
+    border: 2px solid #6070FF;
+    height: 0px;
+    position: absolute;
+    top: 73px;
+    left:323px;
+    right: 36px;
+ }
+  .logo  a{
+    width: 76px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #6070FF;
+    position: absolute;
+    top: 58px;
+    left: 24px;
+  }
+  .title-name{
+    position: absolute;
+    width: 327px;
+    height: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #172B4D;
+    top: 206px;
+    left:24px;
+  }
+  .title-intro{
+    position: absolute;
+    width: 327px;
+    height: 146px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+    top: 428px;
+    left:24px;
+
+  }
+
+  .Backgroud{
+    position: absolute;
+width: 372px;
+height: 587.15px;
+left: 5px;
+top: 104px;
+background-image: url(image/background_img.png);
+background-repeat: no-repeat;
+/* background-position: center;
+background-size: cover; */
+
+  }
+  .Connect{
+ position: absolute;
+    width: 117px;
+  height: 24px;
+  /* Body / 2 - Bolder */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  /* Primary/B300 */
+  color: #7F8CFF;
+  left: 24px;
+  top: 551px;
+  }
+  .dontwrap {
+    white-space: nowrap;
+  }
+  .SocialIcon{
+  position:absolute;
+  height: 20.000062942504883px;
+  width: 170.1666717529297px;
+  left: 24px;
+  top: 584px;
+  border-radius: 0px;
+
+  }
+}
